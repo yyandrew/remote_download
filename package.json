@@ -23,6 +23,6 @@
     "@types/node": "^13.5.2",
     "configstore": "^5.0.0",
     "inquirer": "^7.0.4",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.3"
   }
 }
